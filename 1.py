@@ -13,3 +13,7 @@ for i in range(100):
 for i in range(100):
     if i % 2 == 1:
         print(i)
+
+print("test-1")
+print("test-2")
+print("test-1")
